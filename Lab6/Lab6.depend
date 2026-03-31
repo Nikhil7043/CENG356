@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1774377690 source:c:\users\nikhi\downloads\lab6\memory.c
+	"header.h"
+	"header.h"
+
+1774374881 c:\users\nikhi\downloads\lab6\header.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1774374863 source:c:\users\nikhi\downloads\lab6\main.c
+	"header.h"
+
