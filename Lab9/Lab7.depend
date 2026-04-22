@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1776183838 source:c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\main.c
+	"header.h"
+
+1776799760 c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\header.h
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<sys/param.h>
+	<stdbool.h>
+	<ctype.h>
+
+1776183852 source:c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\parser.c
+	"header.h"
+	"parser.h"
+
+1776183885 c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\parser.h
+	<string.h>
+
+1776183824 source:c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\lab7.c
+	"header.h"
+
+1776183844 source:c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\memory.c
+	"header.h"
+	"header.h"
+
+1776802150 source:c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\lab8_9.c
+	"header.h"
+	"lab8header.h"
+
+1776800035 c:\users\nikhi\onedrive\documents\netbeansprojects\lab7\lab8header.h
+
